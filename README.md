@@ -3,7 +3,7 @@
 The objective of this project is to analyze business performance by examining sales, profit, and product demand across regions, states, and product categories. The dashboard helps identify key trends and supports data-driven decision making for improving sales performance and profitability.
 
 ## Dataset Used
-<a href ="">Dataset</a>
+<a href ="https://github.com/komal-3003/Sales-vs-Profit-Dashboard-Power-BI-/blob/main/orders.csv">Dataset</a>
 ## Key Performance Indicators (KPIs)
 - Total Sales: 2.30M
 - Total Profit: 286.40K
@@ -35,7 +35,7 @@ The dataset was preprocessed to ensure data quality before analysis.
 - State slicer for interactive filtering
 
 ## Dashboard
-<a href ="">View Dashboard</a>
+<a href ="https://github.com/komal-3003/Sales-vs-Profit-Dashboard-Power-BI-/blob/main/Screenshot%202026-03-15%20112829.png">View Dashboard</a>
  ## Project Insights
 - The West region generates the highest profit, while the Central region shows lower profitability.
 - Sales and profit increased steadily from 2014 to 2017, with the highest sales recorded in 2017.
@@ -44,5 +44,3 @@ The dataset was preprocessed to ensure data quality before analysis.
 
 ## Conclusion
 The dashboard provides a comprehensive overview of business performance across regions and product categories. It helps stakeholders quickly identify sales trends, profitable products, and regional performance, enabling better strategic and operational decisions.
-
-
